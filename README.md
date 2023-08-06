@@ -3,13 +3,13 @@ The Attendance System using Face Recognition is an innovative project designed t
 The system works by capturing images of individuals' faces through a camera or webcam. The system compares their faces with the templates stored in its database. It quickly matches the captured face with the existing records to identify the person, mark their attendance, and store it in the form of an Excel sheet.
 
 The modules you need to import are:
-Opencv
-Face recognition
-Dlib
-Cmake
-Numpy
-Date and time
-os
+Opencv,
+Face_recognition,
+Dlib,
+Cmake,
+Numpy,
+Date and time,
+os.
 
 You can import the above by using:
 pip install modulename
